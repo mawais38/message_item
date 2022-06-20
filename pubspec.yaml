@@ -1,7 +1,7 @@
 name: message_item
 description: A widget to display message with items.
 version: 0.0.1
-homepage:
+homepage: https://github.com/mawais38/message_item
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
@@ -23,8 +23,8 @@ dev_dependencies:
 flutter:
 
   # To add assets to your package, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+   assets:
+     - assets/
   #   - images/a_dot_ham.jpeg
   #
   # For details regarding assets in packages, see
