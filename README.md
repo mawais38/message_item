@@ -11,7 +11,7 @@ There are several things that need to be displayed with text in a message in a m
 - #### message
 - #### message time 
 - #### reaction 
-- ####reaction count
+- #### reaction count
 
 ## Usage
 
