@@ -1,5 +1,10 @@
 name: message_item
-description: A widget to display message with items.
+description:
+  A widget to display message with items.In a modern messaging app, various items must be displayed
+  alongside text in a message like user picture, message time, user avatars, reaction, and so on.This
+  chat message widget provide all of these functionality.Our widget is completely customizable. You
+  can add or remove any component based on your needs. We also provide UI customization. You may
+  modify the UI and colours to suit your needs.
 version: 0.0.1
 homepage: https://github.com/mawais38/message_item
 
@@ -23,8 +28,8 @@ dev_dependencies:
 flutter:
 
   # To add assets to your package, add an assets section, like this:
-   assets:
-     - assets/
+  assets:
+    - assets/
   #   - images/a_dot_ham.jpeg
   #
   # For details regarding assets in packages, see
