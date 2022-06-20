@@ -31,10 +31,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MessageWidget(
         id: 1,
-        name: 'FriendlyOstrich',
+        name: 'John Doe',
         imageUrl: 'assets/avatar2.png',
-        messages: 'zxc',
-        time: '2d',
+        messages: 'When do you wanna meet?',
+        time: '14h',
         repNo: '1 REPLY',
         no: 1);
   }
