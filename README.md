@@ -41,6 +41,7 @@ class MyApp extends StatelessWidget {
 }
 
 ```
+![alt text](https://github.com/mawais38/message_item/blob/main/assets/widget.PNG)
 
 ## Additional information
 
