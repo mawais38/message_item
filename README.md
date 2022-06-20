@@ -6,10 +6,12 @@ one widget, our message_item widget provides these out of the box
 ## Features
 
 There are several things that need to be displayed with text in a message in a modern messaging app:
--user avatar 
--user name 
--message -message time 
--reaction reaction count
+- #### user avatar 
+- #### user name 
+- #### message
+- #### message time 
+- #### reaction 
+- ####reaction count
 
 ## Usage
 
